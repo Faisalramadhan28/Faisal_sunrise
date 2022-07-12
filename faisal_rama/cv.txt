@@ -1,1 +1,4 @@
 "Ini adalah file CV"
+1. PT Bank Central Asia
+2. PT Telkom Indonesia
+3. PT Astra Internasional
