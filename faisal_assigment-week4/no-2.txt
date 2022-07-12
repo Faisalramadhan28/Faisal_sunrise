@@ -1,0 +1,11 @@
+commit 44d028cd7310b81a9183dac154553886a842f26a (HEAD -> main, origin/main, origin/HEAD)
+Author: Faisalramadhan28 <107247968+Faisalramadhan28@users.noreply.github.com>  
+Date:   Tue Jul 12 18:39:14 2022 +0700
+
+    Create cv.txt
+
+    Initial CV
+
+commit 718209e7c3dfd729971ebe366a8fa2eb4fe58796
+Author: Faisalramadhan28 <107247968+Faisalramadhan28@users.noreply.github.com>  
+:
